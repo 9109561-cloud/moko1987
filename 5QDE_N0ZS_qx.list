@@ -1,0 +1,97 @@
+vless=212.16.92.112:443, method=none, password=32721515-985b-4773-9e70-5d2e1b88a060, obfs=over-tls, obfs-host=jobinvest.ru, reality-base64-pubkey=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, vless-flow=xtls-rprx-vision, udp-relay=true, tag=🇩🇪DE_2|232KB/s
+trojan=104.26.14.137:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_1|828KB/s
+trojan=162.159.254.191:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_2|146KB/s
+trojan=172.67.149.60:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_3|2.6MB/s
+trojan=188.114.97.7:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_4|140KB/s
+vless=188.114.98.0:443, method=none, password=V2XNET, obfs=wss, obfs-host=or.mirikhan.dpdns.org, obfs-uri=/xvpnws/, fast-open=false, udp-relay=true, tag=🇩🇪DE_3|353KB/s
+trojan=104.16.174.44:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_5|2.1MB/s
+trojan=104.18.152.187:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_6|1.5MB/s
+trojan=104.17.177.143:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_7|304KB/s
+trojan=104.18.152.233:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_8|305KB/s
+trojan=104.18.152.155:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_9|306KB/s
+trojan=104.18.152.97:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_10|301KB/s
+trojan=104.18.152.219:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_11|1.1MB/s
+trojan=104.18.152.225:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_12|291KB/s|B007-260618
+trojan=104.18.152.73:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_13|303KB/s|C002-260622
+trojan=104.18.152.204:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_14|266KB/s|C002-260622
+trojan=104.18.152.175:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_15|1.1MB/s|C002-260622
+trojan=198.41.223.96:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_16|2.5MB/s|C002-260622
+trojan=104.18.152.207:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_17|279KB/s|C002-260622
+trojan=join-telegram-channel-tirexnet.trex.kdns.fr:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_18|619KB/s|S001-260618
+trojan=172.67.188.109:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_19|368KB/s|P002-260618
+socks5=83.147.216.208:1080, fast-open=false, udp-relay=true, tag=🇬🇧GB_7|290KB/s
+vless=212.16.92.111:443, method=none, password=32721515-985b-4773-9e70-5d2e1b88a060, obfs=over-tls, obfs-host=jobinvest.ru, reality-base64-pubkey=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, vless-flow=xtls-rprx-vision, udp-relay=true, tag=🇦🇹AT_1|1.6MB/s
+vless=212.16.92.121:443, method=none, password=32721515-985b-4773-9e70-5d2e1b88a060, obfs=over-tls, obfs-host=jobinvest.ru, reality-base64-pubkey=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, vless-flow=xtls-rprx-vision, udp-relay=true, tag=🇩🇪DE_4|1.0MB/s
+trojan=104.16.174.36:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_20|2.1MB/s
+vless=151.101.56.6:443, method=none, password=bd5bbbac-adc3-4b23-d3ac-8506694c0ef9, obfs=wss, obfs-host=c12.com, obfs-uri=/?TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN, fast-open=false, udp-relay=true, tag=🇫🇮FI_1|1.1MB/s
+vless=a2.arshia-nova.ir:443, method=none, password=bd5bbbac-adc3-4b23-d3ac-8506694c0ef9, obfs=wss, obfs-host=c12.com, obfs-uri=/, fast-open=false, udp-relay=true, tag=🇫🇮FI_2|580KB/s
+trojan=104.19.229.21:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_21|2.1MB/s
+trojan=104.17.111.8:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_22|3.2MB/s
+trojan=www.ignitelimit.com:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_23|2.2MB/s
+trojan=104.18.152.230:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_24|2.0MB/s
+trojan=104.26.15.137:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_25|2.6MB/s
+trojan=104.16.174.34:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_26|2.4MB/s
+trojan=104.16.174.121:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_27|2.5MB/s
+vless=177.3.208.167:443, method=none, password=729425fa-585b-458e-841a-ea30872d4ac2, obfs=over-tls, obfs-host=www.uva.nl, reality-base64-pubkey=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118, reality-hex-shortid=940dbf5b, vless-flow=xtls-rprx-vision, udp-relay=true, tag=🇺🇸US_8|1.1MB/s
+anytls=anytls2.864106.xyz:19000, password=github.com/Alvin9999-newpac/fanqiang, over-tls=true, fast-open=false, udp-relay=true, tag=🇺🇸US_9|264KB/s
+vless=78.135.73.47:443, method=none, password=25e16692-d097-4e69-9e2d-8415609c1968, obfs=over-tls, obfs-host=www.datadoghq.com, reality-base64-pubkey=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8, reality-hex-shortid=f46cd3ea3d1eb72d, vless-flow=xtls-rprx-vision, udp-relay=true, tag=🇹🇷TR_2|240KB/s
+trojan=104.16.174.109:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_31|388KB/s
+trojan=join-telegram-channel.tirexnet.kdns.fr:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_32|471KB/s
+trojan=104.18.152.159:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_33|397KB/s
+trojan=104.16.174.71:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_34|556KB/s
+trojan=104.18.152.143:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_35|485KB/s
+shadowsocks=60.249.39.170:2377, method=chacha20-ietf-poly1305, password=t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, obfs=tls, obfs-host=817aa69.default.nintendo.com, fast-open=false, udp-relay=true, tag=🇹🇼TW_1|5.3MB/s
+trojan=104.17.111.4:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_36|2.4MB/s
+trojan=104.18.152.133:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_37|461KB/s
+trojan=104.18.152.140:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_38|713KB/s
+trojan=104.16.174.37:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_39|2.1MB/s
+trojan=104.17.111.3:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_40|605KB/s
+trojan=104.16.174.72:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_41|1.3MB/s
+trojan=104.16.174.143:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_42|544KB/s
+trojan=104.16.174.185:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_43|138KB/s
+trojan=104.18.152.144:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_44|1.3MB/s
+trojan=104.16.174.46:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_45|151KB/s
+trojan=104.16.174.6:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_46|973KB/s
+trojan=104.18.152.113:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_47|653KB/s
+trojan=104.18.152.149:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_48|1.1MB/s
+trojan=104.16.174.33:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_49|961KB/s
+http=146.70.29.45:443, username=testuser1, password=e4b72b531a2d10900519, over-tls=true, tls-host=92461d2d.acsnet.co, fast-open=false, udp-relay=false, tag=🇸🇬SG_1|1.4MB/s
+http=185.235.0.34:443, over-tls=true, fast-open=false, udp-relay=false, tag=🇬🇧GB_1|406KB/s
+http=37.120.213.210:9443, over-tls=true, fast-open=false, udp-relay=false, tag=🇨🇭CH_1|231KB/s
+http=82.102.17.178:443, over-tls=true, fast-open=false, udp-relay=false, tag=🇪🇸ES_1|159KB/s
+http=146.70.123.98:443, over-tls=true, fast-open=false, udp-relay=false, tag=🇧🇪BE_1|344KB/s
+http=185.94.192.210:443, over-tls=true, fast-open=false, udp-relay=false, tag=🇧🇬BG_1|179KB/s
+http=185.235.0.2:443, over-tls=true, fast-open=false, udp-relay=false, tag=🇬🇧GB_2|239KB/s
+http=185.245.84.50:443, over-tls=true, fast-open=false, udp-relay=false, tag=🇩🇰DK_1|498KB/s
+http=146.70.242.130:443, over-tls=true, fast-open=false, udp-relay=false, tag=🇸🇪SE_1|325KB/s
+http=37.120.233.34:443, over-tls=true, fast-open=false, udp-relay=false, tag=🇬🇧GB_3|160KB/s
+http=149.88.99.209:9443, over-tls=true, fast-open=false, udp-relay=true, tag=🇸🇬SG_2|474KB/s
+http=185.235.0.98:443, over-tls=true, fast-open=false, udp-relay=false, tag=🇬🇧GB_4|444KB/s
+http=185.216.35.130:443, over-tls=true, fast-open=false, udp-relay=false, tag=🇨🇿CZ_1|169KB/s
+http=185.235.0.66:443, over-tls=true, fast-open=false, udp-relay=false, tag=🇬🇧GB_5|275KB/s
+http=37.120.233.34:9443, over-tls=true, fast-open=false, udp-relay=false, tag=🇬🇧GB_6|204KB/s
+http=149.88.21.129:443, over-tls=true, fast-open=false, udp-relay=false, tag=🇺🇸US_1|174KB/s
+http=138.199.35.205:9002, over-tls=true, fast-open=false, udp-relay=false, tag=🇺🇸US_2|158KB/s
+trojan=104.21.8.107:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_24|916KB/s
+trojan=104.16.174.22:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_25|1.3MB/s
+trojan=104.18.15.230:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_26|489KB/s
+trojan=www.speedtest.org:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_27|1.8MB/s
+trojan=104.17.148.22:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_28|741KB/s
+trojan=104.18.152.108:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_29|694KB/s
+trojan=104.16.174.117:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_30|132KB/s
+trojan=162.159.136.234:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_35|322KB/s
+trojan=151.101.56.56:443, password=mitivpn, obfs=wss, obfs-host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net, obfs-uri=/, fast-open=false, udp-relay=true, tag=🇺🇸US_3|269KB/s
+trojan=104.21.46.3:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_37|313KB/s
+trojan=104.18.152.50:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_38|622KB/s
+vless=hhhorp.plus-hit.ru:443, method=none, password=84a794a5-2420-4ca7-8e08-8d21571f36f3, obfs=over-tls, obfs-host=hhhorp.plus-hit.ru, reality-base64-pubkey=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA, reality-hex-shortid=7c8e3d4a9b1f26d3, vless-flow=xtls-rprx-vision, fast-open=false, udp-relay=true, tag=🇳🇱NL_1|213KB/s
+vless=br-gru-1.blook.network:443, method=none, password=c1060910-076d-4a51-99f3-f3cb156f8357, obfs=over-tls, obfs-host=br-gru-1.blook.network, reality-base64-pubkey=GYqQl8suX6lgrJZ27CkhMwtxmDGkd45QxKBJGaHUgQM, reality-hex-shortid=08f0e85ad7cc, vless-flow=xtls-rprx-vision, fast-open=false, udp-relay=true, tag=🇧🇷BR_1|521KB/s
+vless=se-arn-14.blook.democrat:443, method=none, password=af55163a-8d6c-4d6b-85e7-88e52a12b126, obfs=over-tls, obfs-host=se-arn-14.blook.democrat, reality-base64-pubkey=73RxRqjaQXn2Vtqw-i5tRd-fHlm1nafliyjksbVWCyE, reality-hex-shortid=f9729356, vless-flow=xtls-rprx-vision, fast-open=false, udp-relay=true, tag=🇸🇪SE_2|186KB/s
+trojan=104.18.22.63:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_39|452KB/s
+trojan=104.18.12.149:443, password=humanity, obfs=wss, obfs-host=www.ignitelimit.com, obfs-uri=/assignment, fast-open=false, udp-relay=true, tag=🇫🇷FR_40|288KB/s
+vless=45.8.173.217:443, method=none, password=d342d11e-d424-4583-b36e-524ab1f0afa4, obfs=wss, obfs-host=cdn8848.776676.xyz, obfs-uri=/friend/buy, fast-open=false, udp-relay=false, tag=❓Other_4|212KB/s
+vless=35.195.122.169:443, method=none, password=e3fb56fe-bdbc-4f0e-b1ed-de2f7c85f254, obfs=over-tls, obfs-host=www.cloudflare.com, reality-base64-pubkey=i_UbRo65YEpOFuKkNVa0GEMl7xLDx9B1nmeyeNWyJQs, reality-hex-shortid=68e97022627fa882, fast-open=false, udp-relay=false, tag=🇧🇪BE_3|248KB/s
+vless=34.158.23.115:443, method=none, password=a18f08dc-76ae-453a-98f5-d41eab7e649b, obfs=over-tls, obfs-host=www.cloudflare.com, reality-base64-pubkey=f8aV8naD8NKt_mLKaOou0qUrIM1Ge25kJNxywpF3OB0, reality-hex-shortid=d016c76007f78038, fast-open=false, udp-relay=false, tag=🇨🇭CH_2|216KB/s
+vless=34.18.212.19:443, method=none, password=b6f775c2-70fd-4247-8d12-82cac46fdd50, obfs=over-tls, obfs-host=www.cloudflare.com, reality-base64-pubkey=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ, reality-hex-shortid=c5426331173ca15c, fast-open=false, udp-relay=false, tag=🇶🇦QA_1|280KB/s
+vless=162.159.153.216:443, method=none, password=d342d11e-d424-4583-b36e-524ab1f0afa4, obfs=wss, obfs-host=cdn8848.776676.xyz, obfs-uri=/play, fast-open=false, udp-relay=false, tag=🇬🇧GB_7|145KB/s
+vless=172.67.136.68:443, method=none, password=ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba, obfs=wss, obfs-host=EDgE-RouTINg-m16-1.KazAN.KDNs.fr, obfs-uri=/JRr6VGcSLFc034DC6sDbwyWJLbB, fast-open=false, udp-relay=true, tag=🇺🇸US_4|196KB/s
+socks5=103.210.161.8:1080, username=VDJjOVBUcFBaejA5OlQyYzlQVHBQWnowOQ==, password=VDJjOVBUcFBaejA5OlQyYzlQVHBQWnowOQ==, fast-open=false, udp-relay=true, tag=🇨🇳CN_1|2.6MB/s
